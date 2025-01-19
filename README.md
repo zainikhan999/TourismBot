@@ -31,8 +31,8 @@ Welcome to **PakGuider**, your personal tourist guide for exploring Pakistan! Th
    ```bash
    git clone https://github.com/zainikhan999/TourismBot.git
    cd TourismBot
-   ```
-2.Install requirement.txt:
+   
+2. Install requirement.txt:
    ```bash
    pip install -r requirements.txt
    ```
