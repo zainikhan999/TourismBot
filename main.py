@@ -215,7 +215,7 @@ def add_custom_css():
 def loading_screen_with_progress():
     if not st.session_state.get("loading_shown"):  # Check if the loading screen has already been displayed
         loading_container = st.empty()  # Create a container to hold the loading screen
-
+       
         with loading_container.container():  # Use container() to manage grouped elements
             st.title("🌏 Loading PakGuider")
             progress_bar = st.progress(0)
