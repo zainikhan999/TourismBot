@@ -39,7 +39,6 @@ Welcome to **PakGuider**, your personal tourist guide for exploring Pakistan! Th
 
 ## Usage 🧭
 1. - Open the application in your browser (usually at http://localhost:8501).
-<br>
 2. - Use the chat interface to ask tourism-related questions.
 <br>
 Example queries:
