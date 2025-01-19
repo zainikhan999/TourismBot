@@ -31,11 +31,12 @@ Welcome to **PakGuider**, your personal tourist guide for exploring Pakistan! Th
    ```bash
    git clone https://github.com/zainikhan999/TourismBot.git
    cd TourismBot
-
+   ```
 2.Install requirement.txt:
    ```bash
    pip install -r requirements.txt
----
+   ```
+
 ## Usage 🧭
 1. - Open the application in your browser (usually at http://localhost:8501).
 2. - Use the chat interface to ask tourism-related questions.
@@ -44,7 +45,6 @@ Example queries:
 "What are the best places to visit in Pakistan?"
 "What are policies regarding vaccinations?"
 
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/726a780b-1359-43a3-a435-81a2ad33db2d)
 ![image](https://github.com/user-attachments/assets/e2559058-8110-470d-a5c7-5e8c20b9001a)
 ![image](https://github.com/user-attachments/assets/a7dc6c58-8347-4c89-885a-c66da9846dcf)
